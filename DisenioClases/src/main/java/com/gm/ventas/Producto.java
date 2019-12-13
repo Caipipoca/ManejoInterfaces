@@ -11,6 +11,8 @@ public class Producto {
         this.idProducto = ++contadorProductos;
     }
     
+    
+    
     //Constructor sobrecargado de 2 argumentos
     public Producto(String nombre, double precio){
         this();

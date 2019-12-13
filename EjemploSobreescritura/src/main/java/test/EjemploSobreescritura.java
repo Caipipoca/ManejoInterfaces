@@ -10,5 +10,7 @@ public class EjemploSobreescritura {
         
         Gerente gerente = new Gerente("Karla", 2000, "Finanzas");
         System.out.println("gerente = " + gerente.obtenerDetalles());
+        
+        
     }
 }
