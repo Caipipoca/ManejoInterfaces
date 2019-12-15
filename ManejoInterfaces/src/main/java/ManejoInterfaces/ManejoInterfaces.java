@@ -19,6 +19,8 @@ public class ManejoInterfaces {
         datos.insertar();
         datos.listar();
       
+        System.out.println(AccesoDatos.MAX_REGISTROS);
+        
         
     }
     
